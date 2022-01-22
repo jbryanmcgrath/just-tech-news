@@ -1,1 +1,1 @@
-# m13-just-tech-news
+# just-tech-news
